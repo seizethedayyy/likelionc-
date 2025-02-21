@@ -16,10 +16,10 @@ namespace likelionhw1
             char grade = 'S';
 
             Console.WriteLine("캐릭터");
-            Console.WriteLine(att);
-            Console.WriteLine(hp);
-            Console.WriteLine(name);
-            Console.WriteLine(grade);
+            Console.WriteLine("공격력 : "+att);
+            Console.WriteLine("체력 : "+hp);
+            Console.WriteLine("캐릭터 이름 : "+name);
+            Console.WriteLine("등급 : "+grade);
         }
     }
 }
