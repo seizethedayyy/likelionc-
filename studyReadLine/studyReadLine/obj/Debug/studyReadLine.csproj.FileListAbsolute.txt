@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\studyReadLine\studyReadLine\bin\Debug\studyReadLine.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\studyReadLine\studyReadLine\bin\Debug\studyReadLine.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\studyReadLine\studyReadLine\bin\Debug\studyReadLine.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\studyReadLine\studyReadLine\obj\Debug\studyReadLine.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\studyReadLine\studyReadLine\obj\Debug\studyReadLine.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\studyReadLine\studyReadLine\obj\Debug\studyReadLine.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\studyReadLine\studyReadLine\obj\Debug\studyReadLine.pdb
