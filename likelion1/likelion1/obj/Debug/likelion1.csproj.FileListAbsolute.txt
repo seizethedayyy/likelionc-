@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\likelion1\likelion1\bin\Debug\likelion1.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\likelion1\likelion1\bin\Debug\likelion1.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\likelion1\likelion1\bin\Debug\likelion1.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\likelion1\likelion1\obj\Debug\likelion1.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\likelion1\likelion1\obj\Debug\likelion1.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\likelion1\likelion1\obj\Debug\likelion1.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\likelion1\likelion1\obj\Debug\likelion1.pdb
