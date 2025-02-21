@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjm48\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\gitc#\\likelionc-\\Loading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A45C0DD6-DC13-4183-AF06-933059FC9F50}|Loading\\Loading.csproj|c:\\users\\kjm48\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\gitc#\\likelionc-\\loading\\loading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45C0DD6-DC13-4183-AF06-933059FC9F50}|Loading\\Loading.csproj|solutionrelative:loading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kjm48\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\gitc#\\likelionc-\\Loading\\Loading\\Program.cs",
+              "RelativeDocumentMoniker": "Loading\\Program.cs",
+              "ToolTip": "C:\\Users\\kjm48\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\gitc#\\likelionc-\\Loading\\Loading\\Program.cs",
+              "RelativeToolTip": "Loading\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:35:35.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

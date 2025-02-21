@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Loading\Loading\bin\Debug\Loading.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Loading\Loading\bin\Debug\Loading.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Loading\Loading\bin\Debug\Loading.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Loading\Loading\obj\Debug\Loading.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Loading\Loading\obj\Debug\Loading.pdb
