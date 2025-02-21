@@ -10,16 +10,16 @@ namespace likelionhw1
     {
         static void Main(string[] args)
         {
-            string hp = "hp : 100";
-            string att = "att : 56.7";
-            string name = "캐릭터 이름 : ??";
-            string grade = "등급 : S";
+            int hp = 100;
+            double att = 56.7;
+            string name = "카타리나";
+            char grade = 'S';
 
-            Console.WriteLine(hp);
+            Console.WriteLine("캐릭터");
             Console.WriteLine(att);
+            Console.WriteLine(hp);
             Console.WriteLine(name);
             Console.WriteLine(grade);
-
         }
     }
 }
