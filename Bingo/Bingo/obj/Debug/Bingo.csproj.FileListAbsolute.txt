@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\Bingo\Bingo\obj\Debug\Bingo.pdb

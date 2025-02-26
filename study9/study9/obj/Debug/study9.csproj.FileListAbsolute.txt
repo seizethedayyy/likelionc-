@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study9\study9\bin\Debug\study9.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study9\study9\bin\Debug\study9.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study9\study9\bin\Debug\study9.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study9\study9\obj\Debug\study9.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study9\study9\obj\Debug\study9.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study9\study9\obj\Debug\study9.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study9\study9\obj\Debug\study9.pdb

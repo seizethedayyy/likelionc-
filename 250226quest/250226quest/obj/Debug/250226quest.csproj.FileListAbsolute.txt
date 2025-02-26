@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250226quest\250226quest\bin\Debug\250226quest.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250226quest\250226quest\bin\Debug\250226quest.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250226quest\250226quest\bin\Debug\250226quest.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250226quest\250226quest\obj\Debug\250226quest.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250226quest\250226quest\obj\Debug\250226quest.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250226quest\250226quest\obj\Debug\250226quest.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250226quest\250226quest\obj\Debug\250226quest.pdb

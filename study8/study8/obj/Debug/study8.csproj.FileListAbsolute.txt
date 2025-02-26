@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study8\study8\bin\Debug\study8.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study8\study8\bin\Debug\study8.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study8\study8\bin\Debug\study8.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study8\study8\obj\Debug\study8.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study8\study8\obj\Debug\study8.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study8\study8\obj\Debug\study8.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study8\study8\obj\Debug\study8.pdb

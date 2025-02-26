@@ -68,26 +68,34 @@ namespace study7
             //Console.WriteLine(a); //0
 
 
-            //문제 1
-            Console.Write("국어 점수를 입력하세요: ");
-            int iKor = int.Parse(Console.ReadLine());
-            Console.Write("영어 점수를 입력하세요: ");
-            int iEng = int.Parse(Console.ReadLine());
-            Console.Write("수학 점수를 입력하세요: ");
-            int iMath = int.Parse(Console.ReadLine());
+            ////문제 1
+            //Console.Write("국어 점수를 입력하세요: ");
+            //int iKor = int.Parse(Console.ReadLine());
+            //Console.Write("영어 점수를 입력하세요: ");
+            //int iEng = int.Parse(Console.ReadLine());
+            //Console.Write("수학 점수를 입력하세요: ");
+            //int iMath = int.Parse(Console.ReadLine());
 
-            int sum = 0;
-            sum = iKor + iEng + iMath;
-            float average = (float)sum / 3;
-            Console.WriteLine("총점은 " + sum);
-            Console.WriteLine("평균은 " + average.ToString("F2"));
+            //int sum = 0;
+            //sum = iKor + iEng + iMath;
+            //float average = (float)sum / 3;
+            //Console.WriteLine("총점은 " + sum);
+            //Console.WriteLine("평균은 " + average.ToString("F2"));
 
-            //문제 2
-            int num = int.Parse(Console.ReadLine());
-            int result = ~num;
+            ////문제 2
+            //int num = int.Parse(Console.ReadLine());
+            //int result = ~num;
+            //Console.WriteLine("기존 값은 " + num);
+            //Console.WriteLine("~ 연산자 적용 값은 " + result);
 
-            Console.WriteLine("기존 값은 " + num);
-            Console.WriteLine("~ 연산자 적용 값은 " + result);
+            //증간 연산자
+            int b = 3;
+
+            //전위 ++b, 후위  b++
+            //Console.WriteLine("b의 값은 : " + (b++));
+            //Console.WriteLine("b의 값은 : " + b);
+
+            //Console.WriteLine("b의 값은 : " + b--);
         }
     }
 }

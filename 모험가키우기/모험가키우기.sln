@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "모험가키우기", "모험가키우기\모험가키우기.csproj", "{73098816-1680-4164-B796-BA1188BAFDF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73098816-1680-4164-B796-BA1188BAFDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73098816-1680-4164-B796-BA1188BAFDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73098816-1680-4164-B796-BA1188BAFDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73098816-1680-4164-B796-BA1188BAFDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B2CDA6-FFDA-43EA-838B-7F036C82DF06}
+	EndGlobalSection
+EndGlobal
