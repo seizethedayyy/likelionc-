@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250224review\250224review\bin\Debug\250224review.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250224review\250224review\bin\Debug\250224review.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250224review\250224review\bin\Debug\250224review.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250224review\250224review\obj\Debug\250224review.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250224review\250224review\obj\Debug\250224review.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250224review\250224review\obj\Debug\250224review.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\250224review\250224review\obj\Debug\250224review.pdb

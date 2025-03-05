@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study24\study24\bin\Debug\study24.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study24\study24\bin\Debug\study24.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study24\study24\bin\Debug\study24.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study24\study24\obj\Debug\study24.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study24\study24\obj\Debug\study24.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study24\study24\obj\Debug\study24.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study24\study24\obj\Debug\study24.pdb

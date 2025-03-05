@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study26\study26\bin\Debug\study26.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study26\study26\bin\Debug\study26.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study26\study26\bin\Debug\study26.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study26\study26\obj\Debug\study26.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study26\study26\obj\Debug\study26.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study26\study26\obj\Debug\study26.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study26\study26\obj\Debug\study26.pdb

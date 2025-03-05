@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study30\study30\bin\Debug\study30.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study30\study30\bin\Debug\study30.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study30\study30\bin\Debug\study30.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study30\study30\obj\Debug\study30.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study30\study30\obj\Debug\study30.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study30\study30\obj\Debug\study30.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study30\study30\obj\Debug\study30.pdb
