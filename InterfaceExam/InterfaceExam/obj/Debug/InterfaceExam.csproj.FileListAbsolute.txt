@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.pdb

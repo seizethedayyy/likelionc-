@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.pdb

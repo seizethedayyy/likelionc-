@@ -1,0 +1,7 @@
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study42\study42\bin\Debug\study42.exe.config
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study42\study42\bin\Debug\study42.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study42\study42\bin\Debug\study42.pdb
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study42\study42\obj\Debug\study42.csproj.AssemblyReference.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study42\study42\obj\Debug\study42.csproj.CoreCompileInputs.cache
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study42\study42\obj\Debug\study42.exe
+C:\Users\kjm48\OneDrive\바탕 화면\C#\gitc#\likelionc-\study42\study42\obj\Debug\study42.pdb
